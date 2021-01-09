@@ -10,4 +10,4 @@ Sneaker E-commerse site created using HTML5, JavaScript & CSS3.
 
 
 ## See it live
-Here's the live link: https://neomatlala.github.io/E-commerce/
+Here's the live link: https://neomatlala.github.io/JavaScript-E-commerce-site/
